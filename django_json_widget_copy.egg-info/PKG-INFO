@@ -7,7 +7,7 @@ Author: José Manuel Rivas
 Author-email: jmrivas86@gmail.com
 License: MIT
 Description: =============================
-        django-json-widget
+        django-json-widget-copy
         =============================
         
         .. image:: https://badge.fury.io/py/django-json-widget.svg
@@ -123,7 +123,7 @@ Description: =============================
         
         * First release on PyPI.
         
-Keywords: django-json-widget
+Keywords: django-json-widget-copy
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Framework :: Django

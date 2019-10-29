@@ -59,7 +59,7 @@ setup(
     install_requires=['future'],
     license="MIT",
     zip_safe=False,
-    keywords='django-json-widget',
+    keywords='django-json-widget-copy',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Framework :: Django',

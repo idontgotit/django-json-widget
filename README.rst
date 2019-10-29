@@ -1,5 +1,5 @@
 =============================
-django-json-widget
+django-json-widget-copy
 =============================
 
 .. image:: https://badge.fury.io/py/django-json-widget.svg
