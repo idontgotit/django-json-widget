@@ -45,7 +45,7 @@ readme = open('README.rst').read()
 history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
 setup(
-    name='django-json-widget',
+    name='django-json-widget-copy',
     version='0.2.0',
     description="""Django json widget is an alternative widget that makes it easy to edit the jsonfield field of django.""",
     long_description=readme + '\n\n' + history,
