@@ -2,6 +2,8 @@
 django-json-widget-copy
 =============================
 
+IM Not Owner, this copy from https://github.com/jmrivas86/django-json-widget and edit some feature mannualy
+
 .. image:: https://badge.fury.io/py/django-json-widget.svg
     :target: https://badge.fury.io/py/django-json-widget
 
